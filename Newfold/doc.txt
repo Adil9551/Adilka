@@ -1,3 +1,7 @@
 CPEN331 exercises for merging 
 1st line 
-2nd line to be changed// Changed in master first 
+<<<<<<< HEAD
+2nd line to be changed// Changed in master  
+========
+2nd line to be changed// Changed in master 
+>>>>>>> test
